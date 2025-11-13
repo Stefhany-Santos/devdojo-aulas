@@ -18,8 +18,9 @@ public class TiposPrimitivos {
         // Consting - serve para colocar/forçar um tipo de váriavel dentro de outro tipo
         int idade = (int) 100000000000L;
 
+        // String
+        String nome = "Joao";
 
-        System.out.print("Idade " + age);
-        System.out.print(idade);
+        System.out.println("Nome: " + nome);
     }
 }
