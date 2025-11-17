@@ -50,11 +50,13 @@ public class Arrays02 {
          * =======================================================================
          */
 
-        float[] idades = new float[3];
-        idades[0] = 1;
-        idades[1] = 2;
-        idades[2] = 3;
+        String[] nomes = new String[3];
+        nomes[0] = "Goku";
+        nomes[1] = "Kurosaki";
+        nomes[2] = "Luffy";
 
-        System.out.println("Idades: " + Arrays.toString(idades));
+        for (int i = 0; i < nomes.length; i++) {
+            System.out.println(nomes[i]);
+        }
     }
 }
