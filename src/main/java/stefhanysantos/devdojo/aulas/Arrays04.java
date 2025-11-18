@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo;
+package stefhanysantos.devdojo.aulas;
 
 public class Arrays04 {
     public static void main(String[] args) {
