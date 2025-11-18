@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo.aulas;
+package stefhanysantos.devdojo.aulas.introducao;
 
 public class TiposPrimitivosExercicio {
     public static void main(String[] args) {

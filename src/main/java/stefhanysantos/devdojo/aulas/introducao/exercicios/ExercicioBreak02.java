@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo.aulas.exercicios;
+package stefhanysantos.devdojo.aulas.introducao.exercicios;
 
 // Tarefa: Dado um valor de um carro, descubra quantas vezes ele pode ser parcelado
 public class ExercicioBreak02 {

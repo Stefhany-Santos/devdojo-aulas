@@ -1,6 +1,4 @@
-package stefhanysantos.devdojo.aulas;
-
-import java.util.Arrays;
+package stefhanysantos.devdojo.aulas.introducao;
 
 public class Arrays02 {
     public static void main(String[] args) {

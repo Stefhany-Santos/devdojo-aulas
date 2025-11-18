@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo.aulas;
+package stefhanysantos.devdojo.aulas.introducao;
 
 public class ArraysMultidimensionais01 {
     public static void main(String[] args) {

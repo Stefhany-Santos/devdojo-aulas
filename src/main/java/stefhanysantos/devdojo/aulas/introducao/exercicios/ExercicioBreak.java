@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo.aulas.exercicios;
+package stefhanysantos.devdojo.aulas.introducao.exercicios;
 
 // Tarefa: Dados os números de 0 até 50, imprima os primeiros 25 números e depois pare de executar o laço de repetição;
 public class ExercicioBreak {

@@ -1,4 +1,4 @@
-package stefhanysantos.devdojo.aulas.exercicios;
+package stefhanysantos.devdojo.aulas.introducao.exercicios;
 
 // Exercícios: Imprima os números pares
 public class ExercicioFor {
